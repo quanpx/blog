@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 09 23:23:31 ICT 2022
+#Tue May 10 00:59:21 ICT 2022
+querydsl-apt-4.2.2-javadoc.jar>central=
+querydsl-apt-4.2.2-sources.jar>central=
 querydsl-apt-4.2.2.pom>central=

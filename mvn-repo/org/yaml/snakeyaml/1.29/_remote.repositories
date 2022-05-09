@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 09 23:22:39 ICT 2022
+#Tue May 10 00:56:48 ICT 2022
 snakeyaml-1.29.pom>central=
+snakeyaml-1.29-javadoc.jar>central=
+snakeyaml-1.29-sources.jar>central=

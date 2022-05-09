@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 09 23:23:38 ICT 2022
+#Tue May 10 00:55:59 ICT 2022
 javax.inject-1.pom>central=
+javax.inject-1-javadoc.jar>central=
+javax.inject-1-sources.jar>central=

@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 09 23:23:24 ICT 2022
+#Tue May 10 00:58:32 ICT 2022
 txw2-2.3.6.pom>central=
+txw2-2.3.6-javadoc.jar>central=
+txw2-2.3.6-sources.jar>central=
